@@ -3,24 +3,24 @@
 <div align="center">
   <a href="https://gnobious.github.io"><img src="https://img.shields.io/static/v1?label=&message=Roman%20Artemyev&color=blue&style=for-the-badge&logo=github" alt="My Portfolio">   </a>
   <a href="https://gnobious.github.io/Roman_Artemyev_CV.pdf"><img src="https://img.shields.io/static/v1?label=&message=My%20Resume&color=dodgerblue&style=for-the-badge&logo=adobeacrobatreader" alt="resume"></a>
-  <a href="tg://resolve?domain=gnobious"><img src="https://img.shields.io/static/v1?label=&message=My%20Telegram&color=lightskyblue&style=for-the-badge&logo=telegram" alt="Telegram">
+  <a href="https://t.me/gnobious"><img src="https://img.shields.io/static/v1?label=&message=My%20Telegram&color=lightskyblue&style=for-the-badge&logo=telegram" alt="Telegram">
   </a>  
   <a href="mailto:gnobious@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email%20Me&color=lightblue&style=for-the-badge&logo=gmail" alt="mail"></a>
 </div>
 <br />
 <h3>💼 Briefly About Me</h3>
 <ul>
-  <li>💻  My passion is creativity and logic, and programming allows me to combine them.</li>
+  <li>👨‍💻  My passion is creativity and logic, and programming allows me to combine them.</li>
   <li>📊  At the moment I am engaged in frontend development, but I strive to expanding the range of tools, technologies and approaches used.</li>
   <li>:octocat: My goal is to do interesting and useful things using modern tools and solutions.</li>
   <li>📚  I strive to continue learning, to challenge myself, both as a developer and as a person.</li>
 </ul>
 
-<h3 align="left">Technologies and Tools:</h3>
+<h3 align="left">🛠 Technologies and Tools:</h3>
 
 <table width="800px" border="0">
   <tr><td align="center">
-    <h4 align="left">👨‍💻 Technologies</h4>
+    <h4 align="left">🔧 Technologies</h4>
     <p>
     <a href="https://www.w3.org/html/">
       <img align="left" width="50px" height="60px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -84,7 +84,7 @@
   </td></tr>
   
   <tr background-color="none"><td align="center" border="0">
-    <h4 align="left">🛠 Instruments</h4>
+    <h4 align="left">🔨 Instruments</h4>
     <a href="https://code.visualstudio.com">
       <img align="left" width="50px" height="60px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     </a>
