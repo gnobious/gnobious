@@ -80,7 +80,7 @@
   </td>
   
   <td width="50%" valign="middle" align="center" rowspan="2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnobious&layout=compact&langs_count=10&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimerian&layout=compact&langs_count=10&theme=react">
   </td></tr>
   
   <tr background-color="none"><td align="center" border="0">
