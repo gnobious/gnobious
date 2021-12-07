@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Roman 👋</h1>
 <h2 align="center">A passionate Web Front-end Developer from Russia</h2>
 <div align="center">
-  <a href="https://gnobious.github.io"><img src="https://img.shields.io/static/v1?label=&message=Roman%20Artemyev&color=blue&style=for-the-badge&logo=github" alt="My Portfolio">   </a>
-  <a href="https://gnobious.github.io/Roman_Artemyev_CV.pdf"><img src="https://img.shields.io/static/v1?label=&message=My%20Resume&color=dodgerblue&style=for-the-badge&logo=adobeacrobatreader" alt="resume"></a>
-  <a href="https://t.me/gnobious"><img src="https://img.shields.io/static/v1?label=&message=My%20Telegram&color=lightskyblue&style=for-the-badge&logo=telegram" alt="Telegram">
+  <a href="https://rimerian.github.io"><img src="https://img.shields.io/static/v1?label=&message=Roman%20Artemyev&color=blue&style=for-the-badge&logo=github" alt="My Portfolio">   </a>
+  <a href="https://rimerian.github.io/Roman_Artemyev_CV.pdf"><img src="https://img.shields.io/static/v1?label=&message=My%20Resume&color=dodgerblue&style=for-the-badge&logo=adobeacrobatreader" alt="resume"></a>
+  <a href="https://t.me/rimerian"><img src="https://img.shields.io/static/v1?label=&message=My%20Telegram&color=lightskyblue&style=for-the-badge&logo=telegram" alt="Telegram">
   </a>  
-  <a href="mailto:gnobious@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email%20Me&color=lightblue&style=for-the-badge&logo=gmail" alt="mail"></a>
+  <a href="mailto:rimerian.dev@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email%20Me&color=lightblue&style=for-the-badge&logo=gmail" alt="mail"></a>
 </div>
 <br />
 <h3>💼 Briefly About Me</h3>
